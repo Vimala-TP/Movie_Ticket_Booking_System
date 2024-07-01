@@ -1,0 +1,10 @@
+->The Movie Ticket Booking System is the menu driven program where each option perform some task.
+->In this Movie Ticket Booking System it shows the list of movies available and we can Book the show.
+->When comes to code we have two programs.
+  ->User file : This is the main program.
+  ->Module file : It consists of different methods to perform some task.
+->In this system after conforming the ticket it will load the ticket into text file, this is done by using file handling.
+->How to Run?
+  ->Copy the module file and user file and paste into different files in your python compiler.
+  ->Load the Module file in the User file.
+  ->Run the User file.
